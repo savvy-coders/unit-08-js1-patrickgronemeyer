@@ -1,15 +1,15 @@
 {
-  "name": "fullstackprepcourse-unit3-html1",
+  "name": "fullstackprepcourse-unit08-JS1",
   "version": "1.0.0",
   "description": "Coding exercises to accompany the Front End Prep Curriculum for Savvy Coders Full Stack Web Development Bootcamp",
-  "main": "index.html",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "npx jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/savvy-coders/FS-Prep-Unit8-JS1.git"
+    "url": "git+https://github.com/savvy-coders/FS-Prep-Unit08-JS1.git"
   },
   "keywords": [
     "html",
@@ -26,9 +26,9 @@
   "author": "David Rodriguez for Savvy Coders",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/savvy-coders/FS-Prep-Unit3-HTML1/issues"
+    "url": "https://github.com/savvy-coders/FS-Prep-Unit08-JS1/issues"
   },
-  "homepage": "https://github.com/savvy-coders/FS-Prep-Unit3-HTML1#readme",
+  "homepage": "https://github.com/savvy-coders/FS-Prep-Unit08-JS1#readme",
   "devDependencies": {
     "jasmine": "^5.0.2",
     "live-server": "^1.2.2"
