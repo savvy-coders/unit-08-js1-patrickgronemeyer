@@ -24,3 +24,50 @@
 // 8. Declare a variable named 'isAdult' using the ternary operator. The variable should hold a string value of 'Adult' if 'age' is 18 or over, and 'Not Adult' if 'age' is under 18.
 
 // Good luck!
+
+// Do not alter below this line please... Doing so will BREAK automatic grading for your assignment!
+
+export function getFirstName() {
+    return firstName;
+  }
+  
+  export function getAge() {
+    return age;
+  }
+  
+  export function getIsProgrammer() {
+    return isProgrammer;
+  }
+  
+  export function getCanVote() {
+    return canVote;
+  }
+  
+  export function getDescription() {
+    return description;
+  }
+  
+  export function getNum1() {
+    return num1;
+  }
+  
+  export function getNum2() {
+    return num2;
+  }
+  
+  export function getSum() {
+    return sum;
+  }
+  
+  export function getOption() {
+    return option;
+  }
+  
+  export function getDecision() {
+    return decision;
+  }
+  
+  export function getIsAdult() {
+    return isAdult;
+  }
+  
